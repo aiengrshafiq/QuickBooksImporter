@@ -1,0 +1,7 @@
+sqlalchemy
+psycopg2-binary
+python-dotenv
+azure-storage-blob
+python-quickbooks
+requests
+intuit-oauth
